@@ -37,7 +37,7 @@ using a machine learning model trained on multiple performance factors.
 ---
 ## How to Clone the Repository
 ```python
-git clone https://github.com/Mohnish4246/AI-Skill-Predictor.git
+git clone https://github.com/Ayush-044/AI-skill-predict.git
 ```
 
 ## How to Run Locally
